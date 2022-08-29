@@ -1,7 +1,6 @@
 
 s=list(input()) 
 k=int(input())
-#PLACEMENTDRIVE.INFO
 now=s[:k] 
 si=k 
 if len(set(now))==1:
